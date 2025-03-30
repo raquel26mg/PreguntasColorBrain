@@ -10,21 +10,30 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     background-color: #f4f4f4;
+    padding: 30px;
+
+}
+.card-container {
+    /* padding: 30px; */
+    width: 100%;
+    height: calc(100vh - 60px);
+    align-content: center;
+    justify-items: center;
 }
 .card {
-    width: 400px;
-    /* height: 300px; */
-    aspect-ratio: 4/3;
+    width: 100%;
+    max-width: 600px;
+    max-height: 100%;
+    aspect-ratio: 16/9;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 0.5em;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
-    font-size: 22px;
+    font-size: calc(1em + 1vw);
     font-weight: 500;
     line-height: 1.4;
     cursor: pointer;
@@ -62,7 +71,7 @@ body {
     transform: translateX(-50%);
     background-color: #222;
     color: #f2f2f2;
-    padding: 10px;
+    padding: 0.4em;
     border-radius: 0 0 10px 10px;
 }
 .card .question .question-text {padding: 30px;}
@@ -83,9 +92,9 @@ body {
 }
 .card .answer .colors-text {padding: 0 30px 30px 30px;}
 button {
-    margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
+    margin-top: 30px;
+    padding: 0.7em 1em;
+    font-size: calc(0.8em + 0.5vw);
     cursor: pointer;
     border: none;
     background-color: #007BFF;
