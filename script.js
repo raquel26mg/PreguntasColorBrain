@@ -39,14 +39,15 @@ function newCard() {
 
     if(currentCard.details != "") {
         const detailsText = document.createElement("p");
-        detailsText.textContent = currentCard.details;
+        detailsText.textContent = "(" + currentCard.details + ")";
         detailsText.classList.add("details-text");
+        colorsText.classList.add("pd-b-10");
 
         answerContainer.append(colorsContainer, colorsText, detailsText);
     } else {
         answerContainer.append(colorsContainer, colorsText);
     }
-    
+   
     document.querySelector(".card").classList.remove("flipped");
     flipped = false;
 }
