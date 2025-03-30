@@ -85,7 +85,7 @@ body {
     padding: 30px;
 }
 .card .answer .colors-container .color-box {
-    width: 50px;
+    width: 2em;
     aspect-ratio: 3/4;
     border-radius: 6px;
     box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.4);
