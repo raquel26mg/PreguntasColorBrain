@@ -1,0 +1,14 @@
+[
+  { "question": "Las Supernenas", "number": 3, "answer": ["Azul", "Rosa", "Verde"], "details": "Burbuja, Pétalo y Cactus" },
+  { "question": "Colores de un semáforo", "number": 3, "answer": ["Rojo", "Amarillo", "Verde"], "details": "Detenerse, Precaución, Avanzar" },
+  { "question": "Colores de Halloween", "number": 2, "answer": ["Naranja", "Negro"], "details": "Calabazas y la noche" },
+  { "question": "La sede del gobierno en Argentina", "number": 1, "answer": ["Rosa"], "details": "" },
+  { "question": "Los Palotes clásicos (sin papel)", "number": 1, "answer": ["Rosa"], "details": "" },
+  { "question": "La torre Eiffel", "number": 1, "answer": ["Marrón"], "details": "" },
+  { "question": "Color del día cuando hay un crack en la bolsa", "number": 1, "answer": ["Negro"], "details": "" },
+  { "question": "Cinta de la escena del crimen, con letras, en EE.UU.", "number": 2, "answer": ["Negro", "Amarillo"], "details": "" },
+  { "question": "Japón usa dos colores para avanzar en sus semáforos: verde y…", "number": 1, "answer": ["Azul"], "details": "" },
+  { "question": "Color de la pasta si pides 'Spaghetti al nero di seppia'", "number": 1, "answer": ["Negro"], "details": "Están hechos con la tinta de la sepia" },
+  { "question": "Los colores de nuez, chicle y calabaza", "number": 3, "answer": ["Marrón", "Rosa", "Naranja"], "details": "" },
+  { "question": "Los personajes de Cluedo", "number": 6, "answer": ["Rojo", "Amarillo", "Blanco", "Verde", "Azul", "Lila"], "details": "" }
+]

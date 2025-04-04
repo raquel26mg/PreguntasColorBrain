@@ -12,26 +12,20 @@ const colorMap = {
     "Rosa": "#fc80b4"
 };
 
-const cards = [
-    { question: "Colores de la bandera de Francia", answer: ["Azul", "Blanco", "Rojo"], number: 3, details: "" },
-    { question: "Colores de la bandera de Italia", answer: ["Verde", "Blanco", "Rojo"], number: 3, details: "" },
-    { question: "Color del cielo durante el día", answer: ["Azul"], number: 1, details: "" },
-    { question: "Colores de una sandía por dentro y por fuera", answer: ["Rojo", "Verde"], number: 2, details: "" },
-    { question: "Las Supernenas", answer: ["Azul", "Rosa", "Verde"], number: 3, details: "Burbuja, Pétalo y Cactus" },
-    { question: "Colores de un semáforo", number: 3, answer: ["Rojo", "Amarillo", "Verde"], details: "Detenerse, Precaución, Avanzar" },
-    { question: "La sede del gobierno en Argentina", number: 1, answer: ["Rosa"], details: "" },
-    { question: "Los Palotes clásicos (sin papel)", number: 1, answer: ["Rosa"], details: "" },
-    { question: "La torre Eiffel", number: 1, answer: ["Marrón"], details: "" },
-    { question: "Color del día cuando hay un crack en la bolsa", number: 1, answer: ["Negro"], details: "" },
-    { question: "Cinta de la escena del crimen, con letras, en EE.UU.", number: 2, answer: ["Negro", "Amarillo"], details: "" },
-    { question: "Japón usa dos colores para avanzar en sus semáforos: verde y…", number: 1, answer: ["Azul"], details: "" },
-    { question: "Color de la pasta si pides 'Spaghetti al nero di seppia'", number: 1, answer: ["Negro"], details: "Están hechos con la tinta de la sepia" },
-    { question: "Los colores de nuez, chicle y calabaza", number: 3, answer: ["Marrón", "Rosa", "Naranja"], details: "" },
-    { question: "Los personajes de Cluedo", number: 6, answer: ["Rojo", "Amarillo", "Blanco", "Verde", "Azul", "Lila"], details: "" },
-];
-
-let remainingCards = [...cards];
+let cards = [];
+let remainingCards = [];
 let flipped = false;
+
+function loadCards() {
+    fetch('cards.json')
+        .then(Response => Response.json())
+        .then(data => {
+            cards = data;
+            remainingCards = [...cards];
+            newCard();
+        })
+        .catch(error => console.error('Error al cargar las tarjetas:', error));
+}
 
 function newCard() {
     if (remainingCards.length === 0) {
@@ -81,4 +75,4 @@ function flipCard() {
     flipped = !flipped;
 }
 
-document.addEventListener("DOMContentLoaded", newCard);
+document.addEventListener("DOMContentLoaded", loadCards);
