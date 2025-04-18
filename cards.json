@@ -16,7 +16,6 @@
   { "question": "El logo del Hospital Grey Sloan Memorial (Anatomía de Grey)", "number": 2, "answer": ["Azul", "Blanco"], "details": "" },
   { "question": "El vestido de Cristina Yang en su boda con Owen Hunt (Anatomía de Grey)", "number": 1, "answer": ["Rojo"], "details": "" },
   { "question": "La furgoneta de El equipo A", "number": 3, "answer": ["Negro", "Rojo", "Gris"], "details": "" },
-
   { "question": "Las franjas de Herbie", "number": 3, "answer": ["Rojo", "Blanco", "Azul"], "details": "" },
   { "question": "Los habitantes del planeta Pandora", "number": 1, "answer": ["Azul"], "details": "Avatar" },
   { "question": "Los zapatos de rubíes de Dorothy", "number": 1, "answer": ["Rojo"], "details": "El mago de Oz" },
@@ -32,7 +31,6 @@
   { "question": "El coche de Dominic Toretto en Fast and Furious", "number": 1, "answer": ["Negro"], "details": "" },
   { "question": "El famoso traje de Uma Thurman en Kill Bill", "number": 2, "answer": ["Amarillo", "Negro"], "details": "" },
   { "question": "La espada láser de Luke Skywalker en Star Wars: Episodio IV", "number": 1, "answer": ["Verde"], "details": "" },
-
   { "question": "Las Supernenas", "number": 3, "answer": ["Azul", "Rosa", "Verde"], "details": "Burbuja, Pétalo y Cactus" },
   { "question": "La furgoneta de Scooby-Doo (sin incluir las ruedas)", "number": 3, "answer": ["Azul", "Naranja", "Verde"], "details": "" },
   { "question": "La barriga y las manos de Doraemon", "number": 1, "answer": ["Blanco"], "details": "" },
@@ -58,7 +56,6 @@
   { "question": "Colores de La hormiga y el oso hormiguero de dibujos", "number": 2, "answer": ["Rojo", "Azul"], "details": "" },
   { "question": "El pelo de Zoro (One Piece)", "number": 1, "answer": ["Verde"], "details": "" },
   { "question": "Las gafas de Kamina (Tengen Toppa Gurren-Lagann)", "number": 1, "answer": ["Rojo"], "details": "" },
-
   { "question": "Los botones en el pecho de Buzz Lightyear (Toy Story)", "number": 3, "answer": ["Azul", "Verde", "Rojo"], "details": "" },
   { "question": "El chaleco de Woody (Toy Story)", "number": 2, "answer": ["Blanco", "Negro"], "details": "" },
   { "question": "Los puños de la camiseta de Jessie (Toy Story 2)", "number": 3, "answer": ["Amarillo", "Rojo", "Blanco"], "details": "" },
@@ -73,7 +70,6 @@
   { "question": "Los ojos de Pinocho (Pinocho)", "number": 1, "answer": ["Azul"], "details": "" },
   { "question": "Dory, sin incluir los ojos (Buscando a Nemo)", "number": 3, "answer": ["Azul", "Amarillo", "Negro"], "details": "" },
   { "question": "La luna a la que le aúlla el lobo en la canción de Pocahontas", "number": 1, "answer": ["Azul"], "details": "" },
-
   { "question": "El primer éxito de Coldplay", "number": 1, "answer": ["Amarillo"], "details": "Yellow" },
   { "question": "Color de las noche en la canción Lolita de Belinda", "number": 1, "answer": ["Rosa"], "details": "“Noches color rosa; Labios que provocan ¡La-la-la Lolita!”" },
   { "question": "Color de los ojos en la famosa canción de Manolo Escobar", "number": 1, "answer": ["Verde"], "details": "Ojos verdes" },
@@ -81,9 +77,7 @@
   { "question": "Color de la copa de Cruz Cafuné en Mi Casa", "number": 1, "answer": ["Rojo"], "details": "“Me ven la copa roja y creen que es Clipper de fresa”" },
   { "question": "¿De qué color es la mujer en la canción de Izal?", "number": 1, "answer": ["Verde"], "details": "La mujer de verde" },
   { "question": "¿De qué color es el día al que se refiere Alex Ubago en su canción Aunque no te pueda ver", "number": 1, "answer": ["Gris"], "details": "“Si ayer tuviste un día gris, tranquila”" },
-
   { "question": "Personaje de Oscar Wilde que nunca envejece", "number": 1, "answer": ["Gris"], "details": "El retrato de Dorian Gray" },
-
   { "question": "Los cerdos en el Angry Bird original", "number": 1, "answer": ["Verde"], "details": "" },
   { "question": "Las mejillas de Pikachu (Pokemon)", "number": 1, "answer": ["Rojo"], "details": "" },
   { "question": "Colores de las cuatro formas en el mando de la PlayStation", "number": 4, "answer": ["Azul", "Rosa", "Verde", "Rojo"], "details": "" },
@@ -95,7 +89,6 @@
   { "question": "¿Qué color mueve primero en el ajedrez?", "number": 1, "answer": ["Blanco"], "details": "" },
   { "question": "Los dragones en el Mahjong", "number": 3, "answer": ["Rojo", "Verde", "Blanco"], "details": "" },
   { "question": "Los personajes de Cluedo", "number": 6, "answer": ["Rojo", "Amarillo", "Blanco", "Verde", "Azul", "Morado"], "details": "" },
-
   { "question": "Logo de Google", "number": 4, "answer": ["Rojo", "Azul", "Amarillo", "Verde"], "details": "" },
   { "question": "Color más utilizado en logos", "number": 1, "answer": ["Azul"], "details": "" },
   { "question": "Logo de TikTok", "number": 4, "answer": ["Negro", "Blanco", "Rojo", "Azul"], "details": "" },
@@ -105,7 +98,6 @@
   { "question": "Logo de la NASA", "number": 3, "answer": ["Rojo", "Blanco", "Azul"], "details": "" },
   { "question": "El logo de los labios de The Rolling Stones", "number": 3, "answer": ["Negro", "Rojo", "Blanco"], "details": "" },
   { "question": "El logo de Microsoft", "number": 4, "answer": ["Rojo", "Verde", "Azul", "Amarillo"], "details": "" },
-
   { "question": "La bandera de Colombia", "number": 3, "answer": ["Amarillo", "Azul", "Rojo"], "details": "" },
   { "question": "La bandera de Francia", "number": 3, "answer": ["Azul", "Blanco", "Rojo"], "details": "" },
   { "question": "La bandera de Alemania", "number": 3, "answer": ["Negro", "Rojo", "Amarillo"], "details": "" },
@@ -118,9 +110,7 @@
   { "question": "La primera bandera LGTB", "number": 6, "answer": ["Morado", "Azul", "Verde", "Amarillo", "Naranja", "Rojo"], "details": "" },
   { "question": "La bandera de peligro en una playa", "number": 2, "answer": ["Rojo", "Amarillo"], "details": "" },
   { "question": "Los aros olímpicos", "number": 5, "answer": ["Azul", "Negro", "Rojo", "Amarillo", "Verde"], "details": "" },
-  
   { "question": "¿Qué color es el “jaune” en francés?", "number": 1, "answer": ["Amarillo"], "details": "" },
-  
   { "question": "La sede del gobierno en Argentina", "number": 1, "answer": ["Rosa"], "details": "" },
   { "question": "La torre Eiffel", "number": 1, "answer": ["Marrón"], "details": "" },
   { "question": "Color del día cuando hay un crack en la bolsa", "number": 1, "answer": ["Negro"], "details": "" },
@@ -140,12 +130,11 @@
   { "question": "Los pantalones de Wally (¿Dónde está Wally?)", "number": 1, "answer": ["Azul"], "details": "" },
   { "question": "En 1927 la revista Time sugería que se vistiese a los niños de un color por ser más fuerte, ¿de qué color?", "number": 1, "answer": ["Rosa"], "details": "" },
   { "question": "El color más popular de coche en EEUU en 2020", "number": 1, "answer": ["Negro"], "details": "" },
-  
   { "question": "Color de la pasta si pides 'Spaghetti al nero di seppia'", "number": 1, "answer": ["Negro"], "details": "Están hechos con la tinta de la sepia" },
   { "question": "Los Palotes clásicos (sin papel)", "number": 1, "answer": ["Rosa"], "details": "" },
   { "question": "Los colores de nuez, chicle y calabaza", "number": 3, "answer": ["Marrón", "Rosa", "Naranja"], "details": "" },
   { "question": "Fruta kumquat", "number": 1, "answer": ["Naranja"], "details": "" },
   { "question": "Colores de los Lacasitos", "number": 7, "answer": ["Rojo", "Naranja", "Verde", "Blanco", "Azul", "Amarillo", "Marrón"], "details": "" },
   { "question": "Hay cinco tipos principales de té. ¿Qué tres tienen colores en su nombre original?", "number": 3, "answer": ["Negro", "Verde", "Blanco"], "details": "" },
-  { "question": "Las zanahorias antes de que fuesen naranjas", "number": 1, "answer": ["Morado"], "details": "" },
+  { "question": "Las zanahorias antes de que fuesen naranjas", "number": 1, "answer": ["Morado"], "details": "" }
 ]
